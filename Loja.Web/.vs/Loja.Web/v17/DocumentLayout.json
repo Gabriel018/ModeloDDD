@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|solutionrelative:loja.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Loja.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Program.cs",
+              "RelativeToolTip": "Loja.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:36:30.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

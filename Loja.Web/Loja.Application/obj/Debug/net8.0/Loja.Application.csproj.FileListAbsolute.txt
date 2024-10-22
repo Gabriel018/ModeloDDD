@@ -1,0 +1,12 @@
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\bin\Debug\net8.0\Loja.Application.deps.json
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\bin\Debug\net8.0\Loja.Application.dll
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\bin\Debug\net8.0\Loja.Application.pdb
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\obj\Debug\net8.0\Loja.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\obj\Debug\net8.0\Loja.Application.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\obj\Debug\net8.0\Loja.Application.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\obj\Debug\net8.0\Loja.Application.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\obj\Debug\net8.0\Loja.Application.sourcelink.json
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\obj\Debug\net8.0\Loja.Application.dll
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\obj\Debug\net8.0\refint\Loja.Application.dll
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\obj\Debug\net8.0\Loja.Application.pdb
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\obj\Debug\net8.0\ref\Loja.Application.dll
