@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|solutionrelative:loja.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|solutionrelative:loja.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463584B6-4A42-4950-88F0-DC4D14752C51}|Loja.Application\\Loja.Application.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.application\\configurations\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463584B6-4A42-4950-88F0-DC4D14752C51}|Loja.Application\\Loja.Application.csproj|solutionrelative:loja.application\\configurations\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|solutionrelative:loja.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463584B6-4A42-4950-88F0-DC4D14752C51}|Loja.Application\\Loja.Application.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.application\\viewmodels\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463584B6-4A42-4950-88F0-DC4D14752C51}|Loja.Application\\Loja.Application.csproj|solutionrelative:loja.application\\viewmodels\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.web\\views\\home\\_cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|solutionrelative:loja.web\\views\\home\\_cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 223,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,16 +42,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Program.cs",
               "RelativeDocumentMoniker": "Loja.Web\\Program.cs",
               "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Program.cs",
               "RelativeToolTip": "Loja.Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T13:36:30.316Z",
+              "WhenOpened": "2024-10-29T14:52:20.083Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IoC.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Application\\Configurations\\IoC.cs",
+              "RelativeDocumentMoniker": "Loja.Application\\Configurations\\IoC.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Application\\Configurations\\IoC.cs",
+              "RelativeToolTip": "Loja.Application\\Configurations\\IoC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:49:32.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Application\\ViewModels\\ClienteViewModel.cs",
+              "RelativeDocumentMoniker": "Loja.Application\\ViewModels\\ClienteViewModel.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Application\\ViewModels\\ClienteViewModel.cs",
+              "RelativeToolTip": "Loja.Application\\ViewModels\\ClienteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:41:58.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_cliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Views\\Home\\_cliente.cshtml",
+              "RelativeDocumentMoniker": "Loja.Web\\Views\\Home\\_cliente.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Views\\Home\\_cliente.cshtml",
+              "RelativeToolTip": "Loja.Web\\Views\\Home\\_cliente.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:25:26.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Loja.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Loja.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:05:33.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Loja.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Loja.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:05:19.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 232,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Loja.Application.ViewModels.ClienteViewModel>;
+
+    <div>
+        <h1>Cliente</h1>
+        <tbody>
+        @foreach(var item in Model)
+        {
+            <table>
+                <thead>
+                    Nome
+                </thead>
+                <thead>
+                    Idade
+                </thead>
+                <thead>
+                    Nascimento
+                </thead>
+            </table>
+            <tbody>
+                @item.Nome
+                @item.Idade
+                @item.DataNascimento
+            </tbody>
+        }   
+    </div>

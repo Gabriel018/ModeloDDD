@@ -151,3 +151,5 @@ C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Web\obj\Debug\net8.0\Loja.We
 C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Web\obj\Debug\net8.0\ref\Loja.Web.dll
 C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Web\bin\Debug\net8.0\Loja.Domain.dll
 C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Web\bin\Debug\net8.0\Loja.Domain.pdb
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Web\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

@@ -10,3 +10,9 @@ C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\obj\Debug\net8.0
 C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\obj\Debug\net8.0\refint\Loja.Application.dll
 C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\obj\Debug\net8.0\Loja.Application.pdb
 C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\obj\Debug\net8.0\ref\Loja.Application.dll
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\bin\Debug\net8.0\Loja.Data.dll
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\bin\Debug\net8.0\Loja.Domain.dll
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\bin\Debug\net8.0\Loja.Data.pdb
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\bin\Debug\net8.0\Loja.Domain.pdb
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\obj\Debug\net8.0\Loja.Application.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\ModeloDDD\Loja.Web\Loja.Application\obj\Debug\net8.0\Loja.App.6844D516.Up2Date
