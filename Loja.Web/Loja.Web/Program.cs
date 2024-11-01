@@ -14,7 +14,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddServices();
 builder.Services.AddRepository();
-builder.Services.AddAutoMapper(typeof(ApplicationDbContext));
+builder.Services.AddAutoMapper(typeof(AutoMapperConfig));
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();

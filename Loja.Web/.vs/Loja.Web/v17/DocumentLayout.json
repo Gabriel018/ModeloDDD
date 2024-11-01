@@ -7,24 +7,28 @@
       "RelativeMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|solutionrelative:loja.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|solutionrelative:loja.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.web\\views\\home\\_cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|solutionrelative:loja.web\\views\\home\\_cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{463584B6-4A42-4950-88F0-DC4D14752C51}|Loja.Application\\Loja.Application.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.application\\configurations\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{463584B6-4A42-4950-88F0-DC4D14752C51}|Loja.Application\\Loja.Application.csproj|solutionrelative:loja.application\\configurations\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{381EDB2A-92FE-4116-918A-A87768B1F2EC}|Loja.Domain\\Loja.Domain.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381EDB2A-92FE-4116-918A-A87768B1F2EC}|Loja.Domain\\Loja.Domain.csproj|solutionrelative:loja.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|solutionrelative:loja.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{463584B6-4A42-4950-88F0-DC4D14752C51}|Loja.Application\\Loja.Application.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.application\\viewmodels\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{463584B6-4A42-4950-88F0-DC4D14752C51}|Loja.Application\\Loja.Application.csproj|solutionrelative:loja.application\\viewmodels\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|solutionrelative:loja.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.web\\views\\home\\_cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|solutionrelative:loja.web\\views\\home\\_cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.web\\loja.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DED9E630-BF63-4BE9-BFF9-9358FDB51D38}|Loja.Web\\Loja.Web.csproj|solutionrelative:loja.web\\loja.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463584B6-4A42-4950-88F0-DC4D14752C51}|Loja.Application\\Loja.Application.csproj|c:\\users\\gabri\\source\\repos\\modeloddd\\loja.web\\loja.application\\configurations\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463584B6-4A42-4950-88F0-DC4D14752C51}|Loja.Application\\Loja.Application.csproj|solutionrelative:loja.application\\configurations\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 223,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,52 +46,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Loja.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Program.cs",
-              "RelativeToolTip": "Loja.Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:52:20.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IoC.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Application\\Configurations\\IoC.cs",
-              "RelativeDocumentMoniker": "Loja.Application\\Configurations\\IoC.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Application\\Configurations\\IoC.cs",
-              "RelativeToolTip": "Loja.Application\\Configurations\\IoC.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "Loja.Domain\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "Loja.Domain\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:49:32.836Z",
+              "WhenOpened": "2024-11-01T17:07:48.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ClienteViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Application\\ViewModels\\ClienteViewModel.cs",
-              "RelativeDocumentMoniker": "Loja.Application\\ViewModels\\ClienteViewModel.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Application\\ViewModels\\ClienteViewModel.cs",
-              "RelativeToolTip": "Loja.Application\\ViewModels\\ClienteViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Loja.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Program.cs",
+              "RelativeToolTip": "Loja.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:41:58.991Z",
+              "WhenOpened": "2024-11-01T17:01:31.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Loja.Web",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Loja.Web.csproj",
+              "RelativeDocumentMoniker": "Loja.Web\\Loja.Web.csproj",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Loja.Web.csproj",
+              "RelativeToolTip": "Loja.Web\\Loja.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T17:01:27.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Application\\Configurations\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "Loja.Application\\Configurations\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Application\\Configurations\\AutoMapperConfig.cs",
+              "RelativeToolTip": "Loja.Application\\Configurations\\AutoMapperConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:58:12.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_cliente.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Views\\Home\\_cliente.cshtml",
               "RelativeDocumentMoniker": "Loja.Web\\Views\\Home\\_cliente.cshtml",
               "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Views\\Home\\_cliente.cshtml",
               "RelativeToolTip": "Loja.Web\\Views\\Home\\_cliente.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-29T14:25:26.288Z",
               "EditorCaption": ""
@@ -100,7 +117,7 @@
               "RelativeDocumentMoniker": "Loja.Web\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\gabri\\source\\repos\\ModeloDDD\\Loja.Web\\Loja.Web\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Loja.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAIAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowCwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T14:05:33.585Z",
               "EditorCaption": ""
@@ -117,16 +134,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-29T14:05:19.099Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 232,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
